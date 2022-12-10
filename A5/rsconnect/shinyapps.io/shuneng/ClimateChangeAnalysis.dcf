@@ -1,0 +1,13 @@
+name: ClimateChangeAnalysis
+title: ClimateChangeAnalysis
+username:
+account: shuneng
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7861387
+bundleId: 6618631
+url: https://shuneng.shinyapps.io/ClimateChangeAnalysis/
+when: 1670643107.33744
+lastSyncTime: 1670643107.33744
+asMultiple: FALSE
+asStatic: FALSE
